@@ -37,7 +37,3 @@ To use the project:
 ## Contributing
 
 Contributions are welcome! If you have any suggestions, bug fixes, or enhancements, feel free to open an issue or submit a pull request.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
